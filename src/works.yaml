@@ -1,0 +1,24 @@
+- slug: coding
+  title: Gatsby.js を試してみた
+  imageUrl: '/work.png'
+  roles:
+  - React
+  - Gatsby
+  description: |-
+    Gatsby.js を試してみました
+- slug: netlify
+  title: Netlify にデプロイしてみた
+  imageUrl: '/work.png'
+  roles:
+  - React
+  - Netlify
+  description: |-
+    Netlify にデプロイしてみました
+- slug: aws
+  title: AWS のアーキテクチャ選定、 Terraform による構築
+  imageUrl: '/work.png'
+  roles:
+    - AWS
+    - Terraform
+  description: |-
+    比較的経験がある技術です

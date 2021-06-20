@@ -14,5 +14,14 @@ module.exports = {
                 name: `HatebloIyokan`,
             },
         },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: 'works',
+                path: `${__dirname}/src/works.yaml`,
+            },
+        },
+        // options を指定しない
+        'gatsby-transformer-yaml'
     ],
 };
