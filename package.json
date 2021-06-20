@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-porfolio-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-porfolio-sample",
+  "author": "Kiyota iMac",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.6.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
