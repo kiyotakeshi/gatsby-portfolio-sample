@@ -16,10 +16,12 @@
   },
   "dependencies": {
     "gatsby": "^3.6.2",
+    "gatsby-plugin-react-helmet": "^4.7.1",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-source-rss-feed": "^1.2.2",
     "gatsby-transformer-yaml": "^3.7.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
   }
 }

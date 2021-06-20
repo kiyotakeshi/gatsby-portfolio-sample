@@ -22,6 +22,7 @@ module.exports = {
             },
         },
         // options を指定しない
-        'gatsby-transformer-yaml'
+        'gatsby-transformer-yaml',
+        'gatsby-plugin-react-helmet',
     ],
 };
